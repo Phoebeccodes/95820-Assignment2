@@ -1,0 +1,12 @@
+{
+  "system": "naive",
+  "phase": "phase4",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "top_k": 5,
+  "selection": "concat",
+  "prompt_style": "instruction",
+  "n": 918,
+  "hf_em": 30.93681917211329,
+  "hf_f1": 40.62624594980791
+}

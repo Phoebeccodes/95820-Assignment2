@@ -1,0 +1,8 @@
+{
+  "system": "naive",
+  "prompt_style": "persona",
+  "top_k": 1,
+  "n": 918,
+  "hf_em": 16.55773420479303,
+  "hf_f1": 26.1349666677519
+}

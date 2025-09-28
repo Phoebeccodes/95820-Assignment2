@@ -1,0 +1,8 @@
+{
+  "system": "naive",
+  "prompt_style": "cot",
+  "top_k": 1,
+  "n": 918,
+  "hf_em": 0.0,
+  "hf_f1": 11.2282267946252
+}

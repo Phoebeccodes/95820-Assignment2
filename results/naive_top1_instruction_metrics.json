@@ -1,0 +1,8 @@
+{
+  "system": "naive",
+  "prompt_style": "instruction",
+  "top_k": 1,
+  "n": 918,
+  "hf_em": 31.808278867102395,
+  "hf_f1": 39.303823790281974
+}

@@ -1,0 +1,21 @@
+# Core ML & Transformers
+torch>=2.1.0
+transformers>=4.40.0
+datasets>=2.20.0
+sentence-transformers>=2.7.0
+
+# RAG evaluation
+ragas>=0.1.6
+evaluate>=0.4.2
+
+# LangChain (community edition for HF pipeline integration)
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# Data handling & utilities
+pandas>=2.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
+
+# Logging & validation
+pydantic>=1.10.0
